@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# environment / caches
+venv/
+__pycache__/
+*.pyc
+
+# rebuildable index caches
+data/*.pkl
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
